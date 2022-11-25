@@ -1,0 +1,20 @@
+
+h1
+{
+	color: rgb(174, 78, 203); 
+	font-size: 40px;
+}
+.bodyBackgorund {
+	background-image: url(istockphoto.jpg);
+
+	background-position: center;
+
+	background-size: cover;
+
+}
+
+#myCanvas{
+
+border-width: 10px;background-color: rgb(255, 255, 255);
+
+}
